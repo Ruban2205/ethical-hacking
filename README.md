@@ -12,7 +12,7 @@
 - SQL Injection using Burp Suite
 - Cross Site Scripting (XSS)
 - Denial of Service Attack
-- cReating Payload using Metasploit
+- Creating Payload using Metasploit
 
 **Content Yet to be added**
 
